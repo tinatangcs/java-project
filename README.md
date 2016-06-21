@@ -4,7 +4,7 @@
    
    The system was divided into three parts:  
    1.Sensor part  
-   2.Display part 
+   2.Display part  
    3.Database part
    
 
